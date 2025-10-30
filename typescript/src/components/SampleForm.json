@@ -1,0 +1,33 @@
+{
+  "version": "1",
+  "tooltipType": "RsTooltip",
+  "modalType": "RsModal",
+  "form": {
+    "key": "Screen",
+    "type": "Screen",
+    "props": {},
+    "children": [
+      {
+        "key": "muiTextField1",
+        "type": "MuiTextField",
+        "props": {}
+      },
+      {
+        "key": "muiCheckbox1",
+        "type": "MuiCheckbox",
+        "props": {}
+      }
+    ]
+  },
+  "localization": {},
+  "languages": [
+    {
+      "code": "en",
+      "dialect": "US",
+      "name": "English",
+      "description": "American English",
+      "bidi": "ltr"
+    }
+  ],
+  "defaultLanguage": "en-US"
+}
