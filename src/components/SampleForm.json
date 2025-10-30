@@ -16,11 +16,6 @@
         "key": "muiCheckbox1",
         "type": "MuiCheckbox",
         "props": {}
-      },
-      {
-        "key": "muiRadioGroup1",
-        "type": "MuiRadioGroup",
-        "props": {}
       }
     ]
   },
